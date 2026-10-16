@@ -1,0 +1,17 @@
+research/kcd2-extracted/
+research/packages/*.zip
+research/cryengine/
+research/crysis_vrmod/
+research/farcry_vrmod/
+research/KCD2Tools/
+research/KCD2ModLoader/
+research/kcd2-modding-docs/
+research/libKCD2/
+research/KCSE-for-kcd2/
+research/CircuitLordVRModInstaller/
+research/packages/Titanfall2VR-*/
+research/.strings_cache/
+research/proton.py
+research/vrcomp.c
+research/wopenxr.c
+research/kcd2_pcgw.txt
